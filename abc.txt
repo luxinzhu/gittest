@@ -1,0 +1,4 @@
+nano abc.txt >>enter github command
+ctrl+X exit
+git add abc.txt
+
