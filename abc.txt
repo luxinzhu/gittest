@@ -1,4 +1,5 @@
 nano abc.txt >>enter github command
 ctrl+X exit
 git add abc.txt
+git commit -m "i added abc.txt"
 
